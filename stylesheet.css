@@ -104,3 +104,87 @@ div.thirdSection .header{
 div.subtext p{
     width: 162px;
 }
+
+/* Fourth section */
+.fourthSection{
+    background-color: #E5E7EB;
+    border-left: 340px solid #E5E7EB;  
+    border-right: 350px solid #E5E7EB;
+    border-top: 50px solid #E5E7EB;
+    border-bottom: 50px solid #E5E7EB;
+    font-family: 'Roboto';
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: -50px;
+    padding: 0px;
+    border: 0px;
+}
+
+.author{
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+    margin-right: 50px;
+}
+
+/* Fifth section */
+.fifthSection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #3882F6;
+    border-left: 250px solid white;  
+    border-right: 250px solid white;
+    border-top: 50px solid white;
+    border-bottom: 50px solid white;
+    font-family: 'Roboto';
+    color: white;
+}
+
+.text{
+    font-size: 18px;
+    margin-left: 85px;
+}
+
+.text h3{
+    margin-top: 35px;
+    margin-bottom: -15px;
+}
+
+.text p{
+    font-weight: lighter;
+    margin-bottom: 35px;
+}
+
+div.button button{
+    margin-right: 85px;
+    margin-top: 45px;
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/* Sixth Section */
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    border-left: 250px solid #1F2937;  
+    border-right: 250px solid #1F2937;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: 15px;
+}
