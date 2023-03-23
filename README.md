@@ -1,2 +1,2 @@
 # Landing-Page
-For the Odin Project
+For an Odin Project assignment. I used HTML and CSS to create a landing page. 
